@@ -13,3 +13,6 @@ Save design file information from Cura to a single Infocard.txt file. Include de
 ## FUTURE UPDATES
 
 - Data visualization.
+
+#
+ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
